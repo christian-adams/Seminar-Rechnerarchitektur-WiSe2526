@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "adaptiveRF": {
+      "commandName": "Project",
+      "commandLineArgs": "RF_100.h 4"
+    }
+  }
+}

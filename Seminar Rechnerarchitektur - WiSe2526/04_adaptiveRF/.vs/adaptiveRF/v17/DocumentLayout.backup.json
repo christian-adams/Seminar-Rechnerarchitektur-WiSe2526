@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pfeff\\Desktop\\63778 Seminar Rechnerarchitektur\\Forschungen\\Upload Git\\Seminar Rechnerarchitektur - WiSe 2526\\04_adaptiveRF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7185E557-8AA6-4081-86DA-4DA73E72C583}|adaptiveRF\\adaptiveRF.csproj|c:\\users\\pfeff\\desktop\\63778 seminar rechnerarchitektur\\forschungen\\upload git\\seminar rechnerarchitektur - wise 2526\\04_adaptiverf\\adaptiverf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7185E557-8AA6-4081-86DA-4DA73E72C583}|adaptiveRF\\adaptiveRF.csproj|solutionrelative:adaptiverf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7185E557-8AA6-4081-86DA-4DA73E72C583}|adaptiveRF\\adaptiveRF.csproj|c:\\users\\pfeff\\desktop\\63778 seminar rechnerarchitektur\\forschungen\\upload git\\seminar rechnerarchitektur - wise 2526\\04_adaptiverf\\adaptiverf\\adaptiverf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7185E557-8AA6-4081-86DA-4DA73E72C583}|adaptiveRF\\adaptiveRF.csproj|solutionrelative:adaptiverf\\adaptiverf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 426,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adaptiveRF",
+              "DocumentMoniker": "C:\\Users\\pfeff\\Desktop\\63778 Seminar Rechnerarchitektur\\Forschungen\\Upload Git\\Seminar Rechnerarchitektur - WiSe 2526\\04_adaptiveRF\\adaptiveRF\\adaptiveRF.csproj",
+              "RelativeDocumentMoniker": "adaptiveRF\\adaptiveRF.csproj",
+              "ToolTip": "C:\\Users\\pfeff\\Desktop\\63778 Seminar Rechnerarchitektur\\Forschungen\\Upload Git\\Seminar Rechnerarchitektur - WiSe 2526\\04_adaptiveRF\\adaptiveRF\\adaptiveRF.csproj",
+              "RelativeToolTip": "adaptiveRF\\adaptiveRF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T12:58:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pfeff\\Desktop\\63778 Seminar Rechnerarchitektur\\Forschungen\\Upload Git\\Seminar Rechnerarchitektur - WiSe 2526\\04_adaptiveRF\\adaptiveRF\\Program.cs",
+              "RelativeDocumentMoniker": "adaptiveRF\\Program.cs",
+              "ToolTip": "C:\\Users\\pfeff\\Desktop\\63778 Seminar Rechnerarchitektur\\Forschungen\\Upload Git\\Seminar Rechnerarchitektur - WiSe 2526\\04_adaptiveRF\\adaptiveRF\\Program.cs",
+              "RelativeToolTip": "adaptiveRF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:41:25.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
